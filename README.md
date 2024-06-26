@@ -1,2 +1,2 @@
-# testes-de-hipoteses
+# teste-hipotese
 Práticando estatística inferencial
